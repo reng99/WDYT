@@ -1,2 +1,7 @@
 # WDYT
-What Do You Think
+
+**WDYT**的全称是`What Do You Think`的缩写, `你怎么认为`！
+
+本仓库是记录**一句话**的观点。
+
+#### 1. 废掉一个人，要么让TA一直忙，要么让TA一直闲
